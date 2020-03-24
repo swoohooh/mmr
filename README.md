@@ -15,7 +15,7 @@ Make me rich
 
 ## Projects
 object - Projects의 description 에 작성
-key result - Todo list에 epic처럼 관리
+key result - KR column에 epic처럼 관리
 
 ### mmr
 object - 전체 프로젝트를 관통하는 우리 최종 목표
